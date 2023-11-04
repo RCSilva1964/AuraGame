@@ -1,0 +1,90 @@
+[
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Aura.Build.cs",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Aura.cpp",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Aura.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Private/AuraCharacter.cpp",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Private/AuraCharacterBase.cpp",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Private/AuraEnemy.cpp",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Private/AuraPlayerController.cpp",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Public/AuraCharacter.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Public/AuraCharacterBase.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Public/AuraEnemy.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Public/AuraPlayerController.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Default/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	}
+]
