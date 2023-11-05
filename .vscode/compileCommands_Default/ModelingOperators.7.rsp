@@ -1,5 +1,5 @@
 -include "/mnt/sdb3/Unreal5.3/Engine/Plugins/Runtime/MeshModelingToolset/Intermediate/Build/Linux/x64/UnrealEditor/Development/ModelingOperators/Definitions.ModelingOperators.h" 
--include "/mnt/sdb3/Backup dos Projetos/Aura/Intermediate/Build/Linux/x64/AuraEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" 
+-include "/home/rcs/Documentos/Unreal Projects/Aura/Intermediate/Build/Linux/x64/AuraEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" 
 -I "/mnt/sdb3/Unreal5.3/Engine/Source" 
 -I "/mnt/sdb3/Unreal5.3/Engine/Plugins/Runtime/MeshModelingToolset/Source/ModelingOperators/Private" 
 -I "/mnt/sdb3/Unreal5.3/Engine/Intermediate/Build/Linux/UnrealEditor/Inc/CoreUObject/UHT" 

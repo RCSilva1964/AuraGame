@@ -2,7 +2,7 @@
 # *DO NOT EDIT*
 
 UNREALROOTPATH = /mnt/sdb3/Unreal5.3
-GAMEPROJECTFILE =/mnt/sdb3/Backup dos Projetos/Aura/Aura.uproject
+GAMEPROJECTFILE =/home/rcs/Documentos/Unreal Projects/Aura/Aura.uproject
 
 TARGETS = \
 	Aura-Linux-DebugGame  \

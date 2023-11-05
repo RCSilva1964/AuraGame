@@ -1,89 +1,169 @@
 [
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Aura.Build.cs",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Aura.Build.cs",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	},
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Aura.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Aura.cpp",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	},
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Aura.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Aura.h",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	},
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Private/AuraCharacter.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraAbilitySystemComponent.cpp",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	},
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Private/AuraCharacterBase.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraAttributeSet.cpp",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	},
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Private/AuraEnemy.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraCharacter.cpp",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	},
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Private/AuraPlayerController.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraCharacterBase.cpp",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	},
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Public/AuraCharacter.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraEnemy.cpp",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	},
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Public/AuraCharacterBase.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraGameModeBase.cpp",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	},
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Public/AuraEnemy.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraPlayerController.cpp",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	},
 	{
-		"file": "/mnt/sdb3/Backup dos Projetos/Aura/Source/Aura/Public/AuraPlayerController.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraPlayerState.cpp",
 		"arguments": [
 			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/mnt/sdb3/Backup dos Projetos/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/EnemyInterface.cpp",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraAbilitySystemComponent.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraAttributeSet.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraCharacter.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraCharacterBase.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraEnemy.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraGameModeBase.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraPlayerController.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraPlayerState.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/EnemyInterface.h",
+		"arguments": [
+			"/mnt/sdb3/Unreal5.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/mnt/sdb3/Unreal5.3/Engine/Source"
 	}
