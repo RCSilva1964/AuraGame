@@ -13,7 +13,7 @@ UCLASS()
 class AURA_API AAuraPlayerState : public APlayerState
 {
 	GENERATED_BODY()
-	public:
+public:
 	AAuraPlayerState();
 	
 };
