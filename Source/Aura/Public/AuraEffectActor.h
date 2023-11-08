@@ -31,5 +31,5 @@ private:
 	TObjectPtr<USphereComponent> Sphere;
 
 	UPROPERTY(VisibleAnywhere)
-	TObjectPtr<UStaticMeshComponent> Mesh;
+	TObjectPtr<UStaticMeshComponent> Mesh;	
 };
