@@ -1,5 +1,5 @@
 -include "/home/rcs/Unreal 5.3.1/Engine/Plugins/MovieScene/TemplateSequence/Intermediate/Build/Linux/x64/UnrealEditor/Development/TemplateSequence/Definitions.TemplateSequence.h" 
--include "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Intermediate/Build/Linux/x64/AuraEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" 
+-include "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Intermediate/Build/Linux/x64/AuraEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Source" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Plugins/MovieScene/TemplateSequence/Source/TemplateSequence/Private" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Plugins/MovieScene/TemplateSequence/Intermediate/Build/Linux/UnrealEditor/Inc/TemplateSequence/UHT" 

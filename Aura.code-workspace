@@ -33,7 +33,7 @@
 					"Aura",
 					"Linux",
 					"Debug",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -50,7 +50,7 @@
 					"Aura",
 					"Linux",
 					"Debug",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -70,7 +70,7 @@
 					"Aura",
 					"Linux",
 					"Debug",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -88,7 +88,7 @@
 					"Aura",
 					"Linux",
 					"DebugGame",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -105,7 +105,7 @@
 					"Aura",
 					"Linux",
 					"DebugGame",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -125,7 +125,7 @@
 					"Aura",
 					"Linux",
 					"DebugGame",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -143,7 +143,7 @@
 					"Aura",
 					"Linux",
 					"Development",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -160,7 +160,7 @@
 					"Aura",
 					"Linux",
 					"Development",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -180,7 +180,7 @@
 					"Aura",
 					"Linux",
 					"Development",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -198,7 +198,7 @@
 					"Aura",
 					"Linux",
 					"Test",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -215,7 +215,7 @@
 					"Aura",
 					"Linux",
 					"Test",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -235,7 +235,7 @@
 					"Aura",
 					"Linux",
 					"Test",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -253,7 +253,7 @@
 					"Aura",
 					"Linux",
 					"Shipping",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -270,7 +270,7 @@
 					"Aura",
 					"Linux",
 					"Shipping",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -290,7 +290,7 @@
 					"Aura",
 					"Linux",
 					"Shipping",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -308,7 +308,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Debug",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -325,7 +325,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Debug",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -345,7 +345,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Debug",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -363,7 +363,7 @@
 					"Aura",
 					"LinuxArm64",
 					"DebugGame",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -380,7 +380,7 @@
 					"Aura",
 					"LinuxArm64",
 					"DebugGame",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -400,7 +400,7 @@
 					"Aura",
 					"LinuxArm64",
 					"DebugGame",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -418,7 +418,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Development",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -435,7 +435,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Development",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -455,7 +455,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Development",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -473,7 +473,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Test",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -490,7 +490,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Test",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -510,7 +510,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Test",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -528,7 +528,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Shipping",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -545,7 +545,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Shipping",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -565,7 +565,7 @@
 					"Aura",
 					"LinuxArm64",
 					"Shipping",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -583,7 +583,7 @@
 					"AuraEditor",
 					"Linux",
 					"Debug",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -600,7 +600,7 @@
 					"AuraEditor",
 					"Linux",
 					"Debug",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -620,7 +620,7 @@
 					"AuraEditor",
 					"Linux",
 					"Debug",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -638,7 +638,7 @@
 					"AuraEditor",
 					"Linux",
 					"DebugGame",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -655,7 +655,7 @@
 					"AuraEditor",
 					"Linux",
 					"DebugGame",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -675,7 +675,7 @@
 					"AuraEditor",
 					"Linux",
 					"DebugGame",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -693,7 +693,7 @@
 					"AuraEditor",
 					"Linux",
 					"Development",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -710,7 +710,7 @@
 					"AuraEditor",
 					"Linux",
 					"Development",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -730,7 +730,7 @@
 					"AuraEditor",
 					"Linux",
 					"Development",
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-waitmutex",
 					"-clean"
 				],
@@ -748,7 +748,7 @@
 			{
 				"name": "Launch Aura (Debug)",
 				"request": "launch",
-				"program": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Binaries/Linux/UnrealGame-Linux-Debug",
+				"program": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Binaries/Linux/UnrealGame-Linux-Debug",
 				"preLaunchTask": "Aura Linux Debug Build",
 				"args": [
 				],
@@ -760,7 +760,7 @@
 			{
 				"name": "Launch Aura (DebugGame)",
 				"request": "launch",
-				"program": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Binaries/Linux/UnrealGame-Linux-DebugGame",
+				"program": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Binaries/Linux/UnrealGame-Linux-DebugGame",
 				"preLaunchTask": "Aura Linux DebugGame Build",
 				"args": [
 				],
@@ -772,7 +772,7 @@
 			{
 				"name": "Launch Aura (Development)",
 				"request": "launch",
-				"program": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Binaries/Linux/UnrealGame",
+				"program": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Binaries/Linux/UnrealGame",
 				"preLaunchTask": "Aura Linux Development Build",
 				"args": [
 				],
@@ -784,7 +784,7 @@
 			{
 				"name": "Launch Aura (Test)",
 				"request": "launch",
-				"program": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Binaries/Linux/UnrealGame-Linux-Test",
+				"program": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Binaries/Linux/UnrealGame-Linux-Test",
 				"preLaunchTask": "Aura Linux Test Build",
 				"args": [
 				],
@@ -796,7 +796,7 @@
 			{
 				"name": "Launch Aura (Shipping)",
 				"request": "launch",
-				"program": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Binaries/Linux/UnrealGame-Linux-Shipping",
+				"program": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Binaries/Linux/UnrealGame-Linux-Shipping",
 				"preLaunchTask": "Aura Linux Shipping Build",
 				"args": [
 				],
@@ -811,7 +811,7 @@
 				"program": "/home/rcs/Unreal 5.3.1/Engine/Binaries/Linux/UnrealEditor-Linux-Debug",
 				"preLaunchTask": "AuraEditor Linux Debug Build",
 				"args": [
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject"
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject"
 				],
 				"cwd": "/home/rcs/Unreal 5.3.1",
 				"type": "cppdbg",
@@ -824,7 +824,7 @@
 				"program": "/home/rcs/Unreal 5.3.1/Engine/Binaries/Linux/UnrealEditor-Linux-DebugGame",
 				"preLaunchTask": "AuraEditor Linux DebugGame Build",
 				"args": [
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject"
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject"
 				],
 				"cwd": "/home/rcs/Unreal 5.3.1",
 				"type": "cppdbg",
@@ -837,7 +837,7 @@
 				"program": "/home/rcs/Unreal 5.3.1/Engine/Binaries/Linux/UnrealEditor",
 				"preLaunchTask": "AuraEditor Linux Development Build",
 				"args": [
-					"/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject"
+					"/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject"
 				],
 				"cwd": "/home/rcs/Unreal 5.3.1",
 				"type": "cppdbg",
@@ -853,7 +853,7 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Aura.uproject",
+					"-project=/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Aura.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"

@@ -1,5 +1,5 @@
 -include "/home/rcs/Unreal 5.3.1/Engine/Plugins/Interchange/Runtime/Intermediate/Build/Linux/x64/UnrealEditor/Development/InterchangeMessages/Definitions.InterchangeMessages.h" 
--include "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Intermediate/Build/Linux/x64/AuraEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" 
+-include "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Intermediate/Build/Linux/x64/AuraEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Source" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Plugins/Interchange/Runtime/Source/Messages/Private" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Plugins/Interchange/Runtime/Intermediate/Build/Linux/UnrealEditor/Inc/InterchangeMessages/UHT" 

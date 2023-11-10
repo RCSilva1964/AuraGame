@@ -10,7 +10,7 @@
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "clang-x64",
-            "compileCommands": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura.json"
+            "compileCommands": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/.vscode/compileCommands_Aura.json"
         },
         {
             "name": "Linux",
@@ -22,7 +22,7 @@
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "clang-x64",
-            "compileCommands": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Default.json"
+            "compileCommands": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/.vscode/compileCommands_Default.json"
         }
     ],
     "version": 4
