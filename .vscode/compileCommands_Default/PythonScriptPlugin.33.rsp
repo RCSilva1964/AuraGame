@@ -1,5 +1,5 @@
 -include "/home/rcs/Unreal 5.3.1/Engine/Plugins/Experimental/PythonScriptPlugin/Intermediate/Build/Linux/x64/UnrealEditor/Development/PythonScriptPlugin/Definitions.PythonScriptPlugin.h" 
--include "/home/rcs/Documentos/Unreal Projects/Aura/Intermediate/Build/Linux/x64/AuraEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h" 
+-include "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Intermediate/Build/Linux/x64/AuraEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Source" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Plugins/Experimental/PythonScriptPlugin/Source/PythonScriptPlugin/Private" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Intermediate/Build/Linux/UnrealEditor/Inc/Analytics/UHT" 

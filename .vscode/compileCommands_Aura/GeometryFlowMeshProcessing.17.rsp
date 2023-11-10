@@ -1,5 +1,5 @@
 -include "/home/rcs/Unreal 5.3.1/Engine/Plugins/Experimental/GeometryFlow/Intermediate/Build/Linux/x64/UnrealEditor/Development/GeometryFlowMeshProcessing/Definitions.GeometryFlowMeshProcessing.h" 
--include "/home/rcs/Documentos/Unreal Projects/Aura/Intermediate/Build/Linux/x64/AuraEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" 
+-include "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Intermediate/Build/Linux/x64/AuraEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Source" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Plugins/Experimental/GeometryFlow/Source/GeometryFlowMeshProcessing/Private" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Plugins/Experimental/GeometryFlow/Intermediate/Build/Linux/UnrealEditor/Inc/GeometryFlowMeshProcessing/UHT" 

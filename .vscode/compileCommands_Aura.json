@@ -1,185 +1,233 @@
 [
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Aura.Build.cs",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Aura.Build.cs",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Aura.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Aura.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Aura.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Aura.h",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraAbilitySystemComponent.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraAbilitySystemComponent.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraAttributeSet.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraAttributeSet.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraCharacter.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraCharacter.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraCharacterBase.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraCharacterBase.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraEffectActor.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraEffectActor.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraEnemy.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraEnemy.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraGameModeBase.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraGameModeBase.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraPlayerController.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraHUD.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/AuraPlayerState.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraPlayerController.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Private/EnemyInterface.cpp",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraPlayerState.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraAbilitySystemComponent.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraUserWidget.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraAttributeSet.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/AuraWidgetController.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraCharacter.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Private/EnemyInterface.cpp",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraCharacterBase.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraAbilitySystemComponent.h",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraEffectActor.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraAttributeSet.h",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraEnemy.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraCharacter.h",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraGameModeBase.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraCharacterBase.h",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraPlayerController.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraEffectActor.h",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/AuraPlayerState.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraEnemy.h",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	},
 	{
-		"file": "/home/rcs/Documentos/Unreal Projects/Aura/Source/Aura/Public/EnemyInterface.h",
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraGameModeBase.h",
 		"arguments": [
 			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/home/rcs/Documentos/Unreal Projects/Aura/.vscode/compileCommands_Aura/Aura.1.rsp"
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraHUD.h",
+		"arguments": [
+			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraPlayerController.h",
+		"arguments": [
+			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraPlayerState.h",
+		"arguments": [
+			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraUserWidget.h",
+		"arguments": [
+			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/AuraWidgetController.h",
+		"arguments": [
+			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
+		],
+		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
+	},
+	{
+		"file": "/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/Source/Aura/Public/EnemyInterface.h",
+		"arguments": [
+			"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/rcs/Documentos/Unreal Projects/Aura 5 (copiar 1).3/.vscode/compileCommands_Aura/Aura.1.rsp"
 		],
 		"directory": "/home/rcs/Unreal 5.3.1/Engine/Source"
 	}
