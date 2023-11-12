@@ -1,5 +1,5 @@
 -include "/home/rcs/Unreal 5.3.1/Engine/Plugins/Editor/FacialAnimation/Intermediate/Build/Linux/x64/UnrealEditor/Development/FacialAnimationEditor/Definitions.FacialAnimationEditor.h" 
--include "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Intermediate/Build/Linux/x64/AuraEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h" 
+-include "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3(Aula 35)/Intermediate/Build/Linux/x64/AuraEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Source" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Plugins/Editor/FacialAnimation/Source/FacialAnimationEditor/Private" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Intermediate/Build/Linux/UnrealEditor/Inc/Core/UHT" 

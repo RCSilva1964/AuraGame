@@ -1,5 +1,5 @@
 -include "/home/rcs/Unreal 5.3.1/Engine/Plugins/Interchange/Runtime/Intermediate/Build/Linux/x64/UnrealEditor/Development/InterchangeNodes/Definitions.InterchangeNodes.h" 
--include "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3/Intermediate/Build/Linux/x64/AuraEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h" 
+-include "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3(Aula 35)/Intermediate/Build/Linux/x64/AuraEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Source" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Plugins/Interchange/Runtime/Source/Nodes/Private" 
 -I "/home/rcs/Unreal 5.3.1/Engine/Plugins/Interchange/Runtime/Intermediate/Build/Linux/UnrealEditor/Inc/InterchangeNodes/UHT" 
