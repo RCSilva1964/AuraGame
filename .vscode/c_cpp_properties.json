@@ -1,28 +1,29 @@
 {
-	"configurations": [
-		{
-			"name": "AuraEditor Editor Linux Development (Aura)",
-			"compilerPath": "/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"compilerArgs": [
-				"-isysroot",
-				"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu"
-			],
-			"cStandard": "c17",
-			"cppStandard": "c++20",
-			"intelliSenseMode": "clang-x64",
-			"compileCommands": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3(Aula 35)/.vscode/compileCommands_Aura.json"
-		},
-		{
-			"name": "Linux",
-			"compilerPath": "/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
-			"compilerArgs": [
-				"-isysroot",
-				"/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu"
-			],
-			"cStandard": "c17",
-			"cppStandard": "c++20",
-			"intelliSenseMode": "clang-x64",
-			"compileCommands": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3(Aula 35)/.vscode/compileCommands_Default.json"
-		}
-	]
+    "configurations": [
+        {
+            "name": "AuraEditor Editor Linux Development (Aura)",
+            "compilerPath": "/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+            "compilerArgs": [
+                "-isysroot",
+                "/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3(Aula 35)/.vscode/compileCommands_Aura.json"
+        },
+        {
+            "name": "Linux",
+            "compilerPath": "/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+            "compilerArgs": [
+                "-isysroot",
+                "/home/rcs/Unreal 5.3.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "/home/rcs/Documentos/Unreal Projects/AuraAtual 5.3(Aula 35)/.vscode/compileCommands_Default.json"
+        }
+    ],
+    "version": 4
 }
